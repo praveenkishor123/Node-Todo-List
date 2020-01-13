@@ -1,0 +1,23 @@
+{
+  "name": "node-todo-list",
+  "version": "1.0.0",
+  "description": "This is a simple Node todo list application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenkishor123/Node-Todo-List.git"
+  },
+  "keywords": [
+    "todo",
+    "app"
+  ],
+  "author": "Praveen Kishor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveenkishor123/Node-Todo-List/issues"
+  },
+  "homepage": "https://github.com/praveenkishor123/Node-Todo-List#readme"
+}
